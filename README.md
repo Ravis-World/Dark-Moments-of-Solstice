@@ -43,6 +43,44 @@ Features include:
 - **Engine:** [Ren’Py](https://www.renpy.org)  
 - **Language:** Python-based `.rpy` scripts
 
+## Install instructions
+
+### Windows:
+All you have to do is extract the files to the folder of your choice and launch the .exe.
+
+### Mac:
+Same as Windows, but you drag the .app file into your applications folder and launch it that way.
+
+### Linux:
+1.  Download the Linux package (`.tar.bz2`).
+2.  Extract the archive using your file manager or terminal:
+    
+    ```bash
+    tar -xvf DarkMomentsofSolstice-\[version\]-linux.tar.bz2
+    ```
+    
+    _(If using a `.zip` archive, run `unzip DarkMomentsofSolstice-[version]-linux.zip` instead)._
+    
+3.  Open the extracted directory:
+    
+    ```bash
+    cd DarkMomentsofSolstice-\[version\]-linux
+    ```
+    
+4.  Grant execution permissions to the startup script:
+    
+    ```bash
+    chmod +x DarkMomentsofSolstice.sh 
+    ```
+    
+5.  Launch the game:
+    
+    ```bash
+    ./DarkMomentsofSolstice.sh 
+    ```
+    
+    _(Or double-click `DarkMomentsofSolstice.sh` in your file manager if executable scripts are enabled)._
+
 ---
 
 ## 🧊 Credits
