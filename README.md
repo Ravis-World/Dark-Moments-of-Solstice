@@ -59,8 +59,6 @@ Same as Windows, but you drag the .app file into your applications folder and la
     tar -xvf DarkMomentsofSolstice-\[version\]-linux.tar.bz2
     ```
     
-    _(If using a `.zip` archive, run `unzip DarkMomentsofSolstice-[version]-linux.zip` instead)._
-    
 3.  Open the extracted directory:
     
     ```bash
