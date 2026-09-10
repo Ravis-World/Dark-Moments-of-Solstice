@@ -27,3 +27,9 @@
 
 # VS Code
 .vscode/
+
+# Android
+/progressive_download.txt
+/bundle.keystore
+/android.json
+/android.keystore

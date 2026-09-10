@@ -79,6 +79,15 @@ Same as Windows, but you drag the .app file into your applications folder and la
     
     _(Or double-click `DarkMomentsofSolstice.sh` in your file manager if executable scripts are enabled)._
 
+### Android:
+1. Download the Android package (`.apk`) from the release page.
+2. Open the downloaded APK on your Android device and follow the installation prompts.
+3. If Android blocks the installation, allow your browser or file manager to install apps from this source in your device settings, then try again.
+4. Launch **Dark Moments of Solstice** from your app list.
+
+### Web:
+The web version is already built and does not require installation. Open the published web version from itch.io or Game Jolt.
+
 ---
 
 ## 🧊 Credits

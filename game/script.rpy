@@ -104,7 +104,7 @@ label bomb_fail_final:
     "A spike of energy erupts from nowhere."
 
     play sound "audio/universfield-blade-piercing-body-352462.mp3"
-    play voice "audio/kuzu420-dying-guy-288051.mp3"
+    voice "audio/kuzu420-dying-guy-288051.mp3"
 
     scene white
 
@@ -173,7 +173,7 @@ label bomb_fail_final_alt:
     "A spike of energy erupts from nowhere."
 
     play sound "audio/universfield-blade-piercing-body-352462.mp3"
-    play voice "audio/kuzu420-dying-guy-288051.mp3"
+    voice "audio/kuzu420-dying-guy-288051.mp3"
 
     scene white
 
@@ -274,7 +274,7 @@ label bomb_fail_final_yukina:
     "A spike of energy erupts from nowhere."
 
     play sound "audio/universfield-blade-piercing-body-352462.mp3"
-    play voice "audio/death-scream-female-smartsound-fx-1-00-04.mp3"
+    voice "audio/death-scream-female-smartsound-fx-1-00-04.mp3"
 
     scene white
 
@@ -2188,7 +2188,7 @@ label core_escape_final:
 
     "Trying to hold it together."
 
-    play voice "audio/dragon-studio-male-groan-of-pain-357971.mp3"
+    voice "audio/dragon-studio-male-groan-of-pain-357971.mp3"
 
     m "Ghh—!"
 
@@ -2220,7 +2220,7 @@ label core_escape_final:
 
     "He forces the flames outward one last time."
 
-    play voice "audio/freesound_community-male-voice-screaming-loudly-6147"
+    voice "audio/freesound_community-male-voice-screaming-loudly-6147.mp3"
 
     m "AAAAAAAAAAHHHHHH!!"
 
